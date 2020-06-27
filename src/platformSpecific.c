@@ -1,0 +1,8 @@
+#include "platformSpecific/globals.c"
+#include "platformSpecific/imageRoutines.c"
+#include "platformSpecific/time.c"
+#include "platformSpecific/text.c"
+#include "platformSpecific/input.c"
+#include "platformSpecific/sound.c"
+#include "platformSpecific/exit.c"
+#include "platformSpecific/createFolder.c"
