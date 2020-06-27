@@ -1,4 +1,4 @@
- Cd to here, then run:
+ CD to here, then run:
  
  cmake ..
  
